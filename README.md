@@ -18,4 +18,6 @@ Se inicia un debate acerca de la forma tradicional de impartir clases, donde los
 
 Finalmente, se nos solicita que escribamos otra palabra, y en esta ocasión, elijo "Sorprendido" :open_mouth:. La clase ha sido sumamente enriquecedora y descubro que comparto esta palabra con otros compañeros que también se sienten de la misma manera.
 
+[Palabras Sesión 1](https://github.com/jsilgado/educacion-en-bytes/blob/master/docs/PALABRAS_sesion_1.pdf)
+
 Feliz Halloween :ghost:
