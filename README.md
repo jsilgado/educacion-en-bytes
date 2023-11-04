@@ -2,7 +2,7 @@
 
 > Diario de clase. Procesos y Contextos Educativos. MAES 2023.
 
-## :calendar: 31/11/2023
+## :calendar: 31/10/2023
 
 Llegó la primera semana de clase y todo a mi alrededor empezó a organizarse: asignaturas, trabajo, recogida de mis hijas en el colegio, actividades extracurriculares, almuerzos... Opté por comprar una carpeta blanca y un par de bolígrafos para tomar notas. ¿Se llevará eso hoy en día, o la gente solo utiliza portátiles? :confused: Aprovechemos para alejarnos de las pantallas por un momento y centrarnos en la atención.
 
@@ -21,3 +21,19 @@ Finalmente, se nos solicita que escribamos otra palabra, y en esta ocasión, eli
 [Palabras Sesión 1](https://github.com/jsilgado/educacion-en-bytes/blob/master/docs/PALABRAS_sesion_1.pdf)
 
 Feliz Halloween :ghost:
+
+
+## :calendar: 02/11/2023
+
+Presentación de nuevos compañeros.
+
+Padlet
+
+Sesión 2
+ Yo profesor. ¿Me imagino como profesor? ¿Lo tengo asumido? ¿Cómo ha sido mi trayectoria académica?
+
+ Mi motivación principal es compartir el conocimiento que he adquirido a través de mi carrera profesional en la empresa privada con otras personas y ver su progresión. Ha sido gratificante el formar a las nuevas personas en la empresa y verlos como han ido creciendo laboralmente.
+
+ 
+
+ 
