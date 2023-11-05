@@ -2,7 +2,7 @@
 
 > Diario de clase. Procesos y Contextos Educativos. MAES 2023.
 
-## :calendar: 31/11/2023
+## :calendar: 31/10/2023
 
 Llegó la primera semana de clase y todo a mi alrededor empezó a organizarse: asignaturas, trabajo, recogida de mis hijas en el colegio, actividades extracurriculares, almuerzos... Opté por comprar una carpeta blanca y un par de bolígrafos para tomar notas. ¿Se llevará eso hoy en día, o la gente solo utiliza portátiles? :confused: Aprovechemos para alejarnos de las pantallas por un momento y centrarnos en la atención.
 
@@ -21,3 +21,48 @@ Finalmente, se nos solicita que escribamos otra palabra, y en esta ocasión, eli
 [Palabras Sesión 1](https://github.com/jsilgado/educacion-en-bytes/blob/master/docs/PALABRAS_sesion_1.pdf)
 
 Feliz Halloween :ghost:
+
+
+## :calendar: 02/11/2023
+
+La segunda clase comienza con la presentación de nuevos compañeros que no puedieron estar en la primera, aquí no se libra nadie :grinning:. Tenemos a nuestra disposición la herrmienta Padlet, con un [muro](https://padlet.com/marsolgargom/recopilamos-algunas-pautas-g3mezryvurwrhu1e) donde subir pequeños trucos o reflexiones que nos ayuden en el día a día de la docencia. 
+
+De lo cuatro bloques que esté dividido el temario:
+1. :classical_building: ¿Dónde trabajo? ¿Cómo es el sistema educativo actual? ¿Cúal ha sido su evolución?
+2. :school: ¿En que condiciones desarrollo mi labor docente? ¿Cómo funciona la institución?
+3. :child: :girl: ¿Cúales son mis funciones como docente? ¿Que he de hacer en el aula con el grupo-clase?
+4. :man_teacher: ¿Quién soy? ¿En que consiste ser docente hoy en día?
+
+Empezamos por el último enfocado en el concepto de "Yo profesor".
+
+Se nos presentan las siguientes preguntas para reflexionar :thinking: durante unos minutos: ¿Me imagino como profesor? ¿Lo tengo asumido? ¿Cómo ha sido mi trayectoria académica?
+
+En muchas ocasiones, me he imaginado desempeñando el papel de profesor, visualizando cómo sería mi primera clase y las palabras que dirigiría a mis alumnos. A veces, estas reflexiones venían acompañadas de un cierto temor a no saber cómo manejar la situación y mantener el control en el aula. En ocasiones, quizás he sido demasiado exigente con quienes están en proceso de aprendizaje, posiblemente debido a la presión que experimento en mi entorno laboral en una empresa de informática y a mi experiencia académica en un colegio concertado de enfoque riguroso o durante una carrera donde la presión por aprobar las asignaturas era considerable, especialmente en el contexto familiar.
+
+Posteriormente se nos plantea que escribamos :writing_hand: 5 frases con respecto a "yo" como profesor:
+
+* Mi principal motivación radica en compartir el conocimiento que he adquirido a lo largo de mi carrera profesional en el sector privado con otras personas y observar su desarrollo. Ha sido especialmente gratificante formar a nuevos miembros del equipo en la empresa y presenciar su crecimiento en el ámbito laboral.
+* Uno de mis mayores temores se relaciona con lidiar con situaciones conflictivas con los alumnos, y en particular, con padres que puedan ser complicados. Esta preocupación influye en mi preferencia por enseñar a nivel de Grado medio o superior en lugar de la ESO.
+* La experiencia de dar clases a becarios en la empresa, dedicando semanas a preparar teoría y ejercicios, ha sido una de mis principales fuentes de motivación. A pesar de ello, no me considero alguien que siempre haya tenido una vocación docente arraigada.
+* Me imagino desempeñando el rol de profesor y complementándolo con mi profesión actual, la cual me apasiona. Esta combinación me permitiría adquirir nuevas tecnologías para poder desarrollarlas y compartirlas con mis estudiantes.
+* Mi objetivo es alejarme de la rigidez en el aula y de la enseñanza tradicional centrada en la memorización, como la que experimenté durante mis días como estudiante. Busco promover un enfoque más dinámico y participativo en la educación.
+
+Nos entregan palillos de colores con los cuales debemos formar grupos, y estos grupos están compuestos por personas ubicadas en diferentes lugares del aula. Nos agrupamos y formamos un círculo :white_circle:, comenzando a compartir las cinco frases que cada uno de nosotros había escrito. Me sorprende cómo expresamos nuestros miedos e ilusiones con total sinceridad, incluso siendo la primera vez que hablamos entre nosotros y sin conocer siquiera nuestros nombres. Esto me da una idea para utilizar en el Padlet.
+Soledad, se ha esforzado por aprender los nombres de la mayoría de los estudiantes, lo que ha creado un ambiente de aprendizaje cálido y cercano. Esta iniciativa nos hace sentir que somos una parte importante del curso y promueve un mayor grado de compromiso en el desarrollo de la clase. Me pregunto :thinking: si Soledad ha utilizado las imágenes para asociarlas a los estudiantes y, de esta manera, aprenderse sus nombres de manera más efectiva. 
+
+Los grupos exponen :speech_balloon: lo compartido en los círculos, y en estas conversaciones, surgen temas tan importantes como el bullying en el aula, los miedos que albergamos respecto a nuestra futura profesión docente, así como nuestras expectativas e ilusiones. 
+
+Un tema importante que surgió a continuación es el hecho del bajo número de docentes hombres :man_teacher: en la profesión docente, sobre todo en primaría. Todavía persisten algunos estereotipos de género, la enseñanza se suele considerar un trabajo destinado a las mujeres. Históricamente, la enseñanza ha sido una de las pocas profesiones cualificadas a las que han tenido acceso porque se ajustaba al estereotipo tradicional de las tareas de cuidados asociados a la mujer. Además, la preocupación por posibles acusaciones de acoso sexual por parte de profesores varones hacia menores de edad genera aprehensión a la hora de optar por la profesión docente. Existen protocolos de conducta rigurosos en las instituciones, los cuales están dirigidos a los profesores hombres en su interacción con el alumnado y en los que solo una profesora mujer :woman_teacher: puede intervenir.
+
+Se han propuesta las siguientes tareas para ir realizado:
+1. :grey_question: Cumplimenta el cuestionario inicial.
+2. :two_men_holding_hands: Describe qué te transmite el texto "Dos profes en un bar“. (https://eldiariodelaeducacion.com/2023/10/23/dos-profes-en-un-bar/)
+3. :clapper: Película “Uno para todos” (2020) (https://www.rtve.es/play/videos/somos-cine/uno-para-todos/6638297/)
+4. :love_letter: Escribe una carta de agradecimiento a algún docente “memorable”.
+5. :tv: ¿Qué opinión te merece este homenaje? (https:// youtu.be/0v7AtJLueSM)
+6. :orange_book: Lectura y comentario de algunos capítulos (1 mínimo de cada libro) de las obras VIDAS MAESTRAS y DOCENTES QUE DEJAN HUELLA.
+7. :bulb: Enuncia las ideas más relevantes para ti del texto 1 sobre el DIARIO.
+
+Aprovechando la noche del sábado en familia, decidimos ver la película :clapper: "Uno para todos". La disfrutamos mucho, excepto la chica que se quedó dormida. En los primeros momentos de la película, se refleja la dificultad que enfrenta un profesor interino al tener que mudarse repentinamente fuera de su casa :luggage:, sin un lugar donde quedarse. También muestra cómo debe establecer nuevas relaciones con sus colegas y afrontar una nueva clase con el curso ya en marcha. Además, se enfrenta a dos problemas adicionales: la enfermedad grave de uno de sus alumnos (la visita a su casa es un acto muy loable) y el acoso que este alumno realiza hacia sus compañeros, llegando al punto de que los demás no quieren que regrese a clase. Desde mi perspectiva, destacaría dos aspectos de gran importancia en la enseñanza durante las clases: el logro de que los alumnos que han sufrido acoso escolar sean capaces de hablar sobre ello y la actividad en grupo relacionada con el videojuego :joystick:, que asigna a cada persona la tarea que mejor le corresponde, involucrando a todos, o casi todos, en el proyecto.
+
+ 
