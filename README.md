@@ -66,3 +66,31 @@ Se han propuesta las siguientes tareas para ir realizado:
 Aprovechando la noche del sábado en familia, decidimos ver la película :clapper: "Uno para todos". La disfrutamos mucho, excepto la chica que se quedó dormida. En los primeros momentos de la película, se refleja la dificultad que enfrenta un profesor interino al tener que mudarse repentinamente fuera de su casa :luggage:, sin un lugar donde quedarse. También muestra cómo debe establecer nuevas relaciones con sus colegas y afrontar una nueva clase con el curso ya en marcha. Además, se enfrenta a dos problemas adicionales: la enfermedad grave de uno de sus alumnos (la visita a su casa es un acto muy loable) y el acoso que este alumno realiza hacia sus compañeros, llegando al punto de que los demás no quieren que regrese a clase. Desde mi perspectiva, destacaría dos aspectos de gran importancia en la enseñanza durante las clases: el logro de que los alumnos que han sufrido acoso escolar sean capaces de hablar sobre ello y la actividad en grupo relacionada con el videojuego :joystick:, que asigna a cada persona la tarea que mejor le corresponde, involucrando a todos, o casi todos, en el proyecto.
 
  ## :calendar: 07/11/2023 - Sesión 3
+Ya es la segunda semana del MAES, ya nos encontramos más habituados al aula, con nuestros compañeros, y entendiendo mejor lo que se espera de nosotros en cada asignatura.
+
+Para comenzar, realizamos una actividad en la que nos ponemos de pie formando un círculo para compartir nuestra experiencia durante la hora del almuerzo. Esta dinámica fomenta la expresión corporal, ya que debemos comunicarnos mientras todos nos observan. Es sorprendente notar el alto nivel de estrés :warning: y las prisas de la mayoría de los compañeros en la hora de comer. Esto refleja que cada persona tiene sus preocupaciones y una vida fuera del aula, no solo los adultos, como en mi caso, sino también estudiantes jóvenes, e incluso adolescentes que podrían estar en nuestra misma situación.
+
+Para comenzar hacemos una actividade de pie, nos situamos formando un circulo para vernos entre todos, tenemos que explicar como ha sido la hora del almuerzo :sandwich:. Para el recuerdo, ese día recogí a la chica del colegio, calenté solomillo al ajillo que me habían dejado preparado, comimos en 15 minutos y fuimos a recoger a la mayor al instituto. Esta actividad fomenta la expresión corporal al tener que expresarnos con la mirada de todos puesta en nosotros. Llama la atención :warning: el nivel de estres y prisas de la mayoria de los compañeros, comiendo la mayoria rápido y mal, hace ver que todas las personas tienen sus preocupaciones y su vida fuera del aula. No es sólo una carácteristica de personas adultas, como puede ser mi caso, sino también de estudiantes y personas jóvenes, extrapolandose tanbién a alumnos adolescentes que pueden estar en nuestra aula. 
+
+Encuesta preguntas y respuestas.
+
+Muchas ventajas e incovenientes
+
+Presentación de ¿Como curar una herida? ¿Repetimos lo que se ha hecho con nosotros por que ha funcionado? ¿Aprender a hacerlo mejor?
+
+
+Conocimiento del profesor docente. 
+* Conocimiento de la materia: para transmitirlo de manera clara y precisa.
+* Psicología: comprender cómo los estudiantes aprenden, y cómo adaptar sus métodos de enseñanza alas necesidades individuales de los alumnos.
+* Contexto: conocer en entorno, las características de los estudiantes y las circunstancias socioculturales para planificar los métodos de apredizaje.
+* Herramienta técnológicas: mejorar la participación de los estudiantes, el acceso a recursos educativos y la comunicación en el aula.
+
+SABER, SABER HACER, y SER
+
+ Frustración del profesor al ver que los alumnos no les gusta la materia.
+
+ ¿Qué carácteristicas tuvo un docente que nos marcó en nuestra trayectoria academica? Entusiasmo por lo que imparte. Autoridad moral, Cercania, Respeto, Seguridad y Empatia.
+
+ Somos profesionales de la enseñanza y personas con inquitudes y problemas.
+
+ Ronda de noticias.
