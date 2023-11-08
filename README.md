@@ -2,7 +2,7 @@
 
 > Diario de clase. Procesos y Contextos Educativos. MAES 2023.
 
-## :calendar: 31/10/2023
+## :calendar: 31/10/2023 - Sesión 1
 
 Llegó la primera semana de clase y todo a mi alrededor empezó a organizarse: asignaturas, trabajo, recogida de mis hijas en el colegio, actividades extracurriculares, almuerzos... Opté por comprar una carpeta blanca y un par de bolígrafos para tomar notas. ¿Se llevará eso hoy en día, o la gente solo utiliza portátiles? :confused: Aprovechemos para alejarnos de las pantallas por un momento y centrarnos en la atención.
 
@@ -23,7 +23,7 @@ Finalmente, se nos solicita que escribamos otra palabra, y en esta ocasión, eli
 Feliz Halloween :ghost:
 
 
-## :calendar: 02/11/2023
+## :calendar: 02/11/2023 - Sesión 2
 
 La segunda clase comienza con la presentación de nuevos compañeros que no puedieron estar en la primera, aquí no se libra nadie :grinning:. Tenemos a nuestra disposición la herrmienta Padlet, con un [muro](https://padlet.com/marsolgargom/recopilamos-algunas-pautas-g3mezryvurwrhu1e) donde subir pequeños trucos o reflexiones que nos ayuden en el día a día de la docencia. 
 
@@ -65,4 +65,4 @@ Se han propuesta las siguientes tareas para ir realizado:
 
 Aprovechando la noche del sábado en familia, decidimos ver la película :clapper: "Uno para todos". La disfrutamos mucho, excepto la chica que se quedó dormida. En los primeros momentos de la película, se refleja la dificultad que enfrenta un profesor interino al tener que mudarse repentinamente fuera de su casa :luggage:, sin un lugar donde quedarse. También muestra cómo debe establecer nuevas relaciones con sus colegas y afrontar una nueva clase con el curso ya en marcha. Además, se enfrenta a dos problemas adicionales: la enfermedad grave de uno de sus alumnos (la visita a su casa es un acto muy loable) y el acoso que este alumno realiza hacia sus compañeros, llegando al punto de que los demás no quieren que regrese a clase. Desde mi perspectiva, destacaría dos aspectos de gran importancia en la enseñanza durante las clases: el logro de que los alumnos que han sufrido acoso escolar sean capaces de hablar sobre ello y la actividad en grupo relacionada con el videojuego :joystick:, que asigna a cada persona la tarea que mejor le corresponde, involucrando a todos, o casi todos, en el proyecto.
 
- 
+ ## :calendar: 07/11/2023 - Sesión 3
