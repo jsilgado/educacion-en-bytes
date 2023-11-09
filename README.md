@@ -68,29 +68,33 @@ Aprovechando la noche del sábado en familia, decidimos ver la película :clappe
  ## :calendar: 07/11/2023 - Sesión 3
 Ya es la segunda semana del MAES, ya nos encontramos más habituados al aula, con nuestros compañeros, y entendiendo mejor lo que se espera de nosotros en cada asignatura.
 
-Para comenzar, realizamos una actividad en la que nos ponemos de pie formando un círculo para compartir nuestra experiencia durante la hora del almuerzo. Esta dinámica fomenta la expresión corporal, ya que debemos comunicarnos mientras todos nos observan. Es sorprendente notar el alto nivel de estrés :warning: y las prisas de la mayoría de los compañeros en la hora de comer. Esto refleja que cada persona tiene sus preocupaciones y una vida fuera del aula, no solo los adultos, como en mi caso, sino también estudiantes jóvenes, e incluso adolescentes que podrían estar en nuestra misma situación.
+Para comenzar, realizamos una actividad en la que nos ponemos de pie formando un círculo para compartir nuestra experiencia durante la hora del almuerzo :meat_on_bone:. Esta dinámica fomenta la expresión corporal, ya que debemos comunicarnos mientras todos nos observan. Es sorprendente notar el alto nivel de estrés :warning: y las prisas de la mayoría de los compañeros en la hora de comer. Esto refleja que cada persona tiene sus preocupaciones y una vida fuera del aula, no solo los adultos, como en mi caso, sino también estudiantes jóvenes, e incluso adolescentes que podrían estar en nuestra misma situación.
 
-Para comenzar hacemos una actividade de pie, nos situamos formando un circulo para vernos entre todos, tenemos que explicar como ha sido la hora del almuerzo :sandwich:. Para el recuerdo, ese día recogí a la chica del colegio, calenté solomillo al ajillo que me habían dejado preparado, comimos en 15 minutos y fuimos a recoger a la mayor al instituto. Esta actividad fomenta la expresión corporal al tener que expresarnos con la mirada de todos puesta en nosotros. Llama la atención :warning: el nivel de estres y prisas de la mayoria de los compañeros, comiendo la mayoria rápido y mal, hace ver que todas las personas tienen sus preocupaciones y su vida fuera del aula. No es sólo una carácteristica de personas adultas, como puede ser mi caso, sino también de estudiantes y personas jóvenes, extrapolandose tanbién a alumnos adolescentes que pueden estar en nuestra aula. 
+Ya sentados realizamos una actividad realitva al cuestionario inicial: _Para ti, ¿Cuales son las ventajas e inconvenientes de la enseñanza como profesión?_ Después de unos minutos estás son mis respuestas:
 
-Encuesta preguntas y respuestas.
+Ventajas :point_up:: 
+- Satisfacción al compartir conocimiento.
+- Menos horas al año, por lo que puedes conciliar mejor la vida laboral y personal.
+  
+Inconvenientes :point_down:
+- Situaciones conflictividas con alumnos o padres.
+- Posibilidad de centro escolar lejos de tu domicilio habitual
+- Menos nivel académico que la empresa privada.
 
-Muchas ventajas e incovenientes
+Un par de compañeros escribieron en la pizarra las propuestas de todos. [Profesión_Ventajas_Inconvenientes.jpg](https://github.com/jsilgado/educacion-en-bytes/blob/master/docs/PROFESION_VENTAJAS_INCOVENIENTES_sesion_3.jpg) Antes de iniciar el máster, la mayoría de nosotros, me incluyo, podría haber considerado que la enseñanza es una profesión sencilla, con más ventajas que inconvenientes. Sin embargo, con un poco de reflexión, ha bstado para darnos cuenta de que hay numerosos inconvenientes objetivos, mientras que la mayoría de las ventajas son subjetivas y se vinculan a la satisfacción personal y laboral, así como a la conciencia social.
 
-Presentación de ¿Como curar una herida? ¿Repetimos lo que se ha hecho con nosotros por que ha funcionado? ¿Aprender a hacerlo mejor?
+Continuamos con la pregunta de ¿Como curar una herida? :hospital: [COMO_CURAR_UNA_HERIDA_session_3](https://github.com/jsilgado/educacion-en-bytes/blob/master/docs/COMO_CURAR_UNA_HERIDA_session_3.pptx) Ninguno de los pasos para curar una herida que se hacían antiguamente son seguidos en la actualidad, ya que la ciencia ha demostrado que hay mejores remedios. Aunque con nosotros esa forma de curar sirvió, ¿Repetimos lo que se ha hecho por que ha funcionado? o ¿Aprendemos a hacerlo mejor? Es una reflexión interesante, y extrapolada al ámbito educativo es fundamental para obtener los mejores resultados con los alumnos y no repetir los errores que algunos profesores con esas técnicas, que se creían válidas, han cometido en nuestra trayectoria académica.
 
+La enseñanza no es sólo cuestión de conocimiento, un profesor docente necesita:
+* :mortar_board: Conocimiento de la materia: para transmitirlo de manera clara y precisa.
+* :man_scientist: Psicología: comprender cómo los estudiantes aprenden, y cómo adaptar sus métodos de enseñanza alas necesidades individuales de los alumnos.
+* :child: :girl:  Contexto: conocer en entorno, las características de los estudiantes y las circunstancias socioculturales para planificar los métodos de apredizaje.
+* :computer: Herramienta técnológicas: mejorar la participación de los estudiantes, el acceso a recursos educativos y la comunicación en el aula.
 
-Conocimiento del profesor docente. 
-* Conocimiento de la materia: para transmitirlo de manera clara y precisa.
-* Psicología: comprender cómo los estudiantes aprenden, y cómo adaptar sus métodos de enseñanza alas necesidades individuales de los alumnos.
-* Contexto: conocer en entorno, las características de los estudiantes y las circunstancias socioculturales para planificar los métodos de apredizaje.
-* Herramienta técnológicas: mejorar la participación de los estudiantes, el acceso a recursos educativos y la comunicación en el aula.
+En resumen, hay que: **SABER**, **SABER HACER**, y **SER**.
 
-SABER, SABER HACER, y SER
+¿Qué carácteristicas tuvo un docente que nos marcó en nuestra trayectoria academica? :woman_teacher: Entre todos los compañeros indicamos: Entusiasmo por lo que imparte, autoridad moral, cercania, respeto, seguridad y empatia.
 
- Frustración del profesor al ver que los alumnos no les gusta la materia.
+Un aspecto importante es que los profesores no solo son expertos en enseñanza, sino también individuos con inquietudes sociales y problemas personales. Es complicado entrar en una clase y olvidarse de un plumazo todo de aquello que llevas a cuestas.
 
- ¿Qué carácteristicas tuvo un docente que nos marcó en nuestra trayectoria academica? Entusiasmo por lo que imparte. Autoridad moral, Cercania, Respeto, Seguridad y Empatia.
-
- Somos profesionales de la enseñanza y personas con inquitudes y problemas.
-
- Ronda de noticias.
+Concluimos la clase con una actividad participativa. En las paredes de la clase, se encuentran varias cartulinas que muestran noticias :newspaper: actuales relacionadas con la educación. En grupos de cuatro, leemos estas noticias, y debatimos las dos palabras clave que consideramos más relevantes al leer cada noticia. Estas son las que han salido [NOTICIAS_Y_PALABRAS_Sesion_3](https://github.com/jsilgado/educacion-en-bytes/blob/master/docs/NOTICIAS_Y_PALABRAS_sesion_3.pdf)
