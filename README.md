@@ -98,3 +98,15 @@ En resumen, hay que: **SABER**, **SABER HACER**, y **SER**.
 Un aspecto importante es que los profesores no solo son expertos en enseñanza, sino también individuos con inquietudes sociales y problemas personales. Es complicado entrar en una clase y olvidarse de un plumazo todo de aquello que llevas a cuestas.
 
 Concluimos la clase con una actividad participativa. En las paredes de la clase, se encuentran varias cartulinas que muestran noticias :newspaper: actuales relacionadas con la educación. En grupos de cuatro, leemos estas noticias, y debatimos las dos palabras clave que consideramos más relevantes al leer cada noticia. Estas son las que han salido [NOTICIAS_Y_PALABRAS_Sesion_3](https://github.com/jsilgado/educacion-en-bytes/blob/master/docs/NOTICIAS_Y_PALABRAS_sesion_3.pdf)
+
+ ## :calendar: 09/11/2023 - Sesión 4
+
+ Hoy ha venido a clase Elena, una profesora interina de Geografía e Historia :earth_asia: que da clases a alumnos de secundaria, para contarnos su "Experiencia de vida", asi se titula su presentación.
+
+Comenzó a compartir su trayectoria profesional previa a la enseñanza y desde el principio, me sentí identificado con su relato. Durante muchos años, trabajó en una gestoría, una ocupación que no colmaba por completo su satisfacción. Alrededor de los 40 años, decidió dar un vuelco a su vida, para intentar dedicarse en la enseñanza y preparándose para las oposiciones. No se trataba simplemente de una "vocación" temprana en su caso. En similires circunscunstancias me encuentro con la profesión de informática, que es muy extresante. Me encanta mi trabajo, pero el degaste poco a poco va haciendo mella y el hecho de tener la oportunidad enseñar a las personas nuevas que entran en la empresa me despertó esa curiosidad por la enseñanza y la posibilidad de verme realizado y feliz con lo que hago. Llevaba varios años intentando entrar en el MAES, pero por nota no lo conseguia, este año por suerte si y quiero aprovechar la oportunidad. 
+
+ Elena ha superado las oposiciones :woman_student: para ingresar en la enseñanza, labor a la que se necesita mucho esfuerzo y dedicación. Ahora mismo para mí es un asunto lejano, trabajar y estudiar el máster está siendo un reto y gracias al apoyo de mi familia :family_man_woman_girl_girl: estoy sacando tiempo de donde parece que no hay. Este apoyo en esta profesión es fundamental, tanto en el proceso de estudio y oposiciones como en el de posibles destinos lejos de tu hogar habitual.
+
+ La parte en la que Elena más mostró su entusiasmo fue el contacto con los alumnos. Incidió en el vínculo que se crea con los alumnos, somos personas y, aparte de inevitable, es lo más satisfactorio de la profesión. Los alumnos te recordarán más por la parte humana más que los conocimientos que le puedas enseñar. 
+
+ Estuvimos todos muy agusto recibiendo información de primera mano. Las preguntas se sucedían de todos los temas, laborales, de relación con los alumnos, en el centro... Se nos pasó en un suspiro. 
