@@ -110,3 +110,28 @@ Comenzó a compartir su trayectoria profesional previa a la enseñanza y desde e
  La parte en la que Elena más mostró su entusiasmo fue el contacto con los alumnos. Incidió en el vínculo que se crea con los alumnos, somos personas y, aparte de inevitable, es lo más satisfactorio de la profesión. Los alumnos te recordarán más por la parte humana más que los conocimientos que le puedas enseñar. 
 
  Estuvimos todos muy agusto recibiendo información de primera mano. Las preguntas se sucedían de todos los temas, laborales, de relación con los alumnos, en el centro... Se nos pasó en un suspiro. 
+
+ ## :calendar: 14/11/2023 - Sesión 5
+
+ Video de la profesora de Itaca
+
+ Reflexión de sobre los exámenes y el estado de los sistemas de evaluación. No hay consenso entre los profesores, cada uno va a su bola.
+
+ Los otros son los alumnos.
+
+ ¿Estas aconstrumbrado a tratar con jovenes. ?
+
+ Prpblemas que afronta la juventud. 
+
+ Exposión en redes sociales
+ Falta de autoestima.
+ Soledad
+ Demasiado tiempo solos
+ Pocos espacios en la ciudad para los jóvenes.
+
+ Los problemas de la juventud son cíclicos. La generación posterior simpre piensa que la actual es peor.
+
+ Violencia de género.
+ Aumento de transtornos de salud mental en los jovenes.
+
+ Los jovenes demandan un lenguaje mas positivo.
