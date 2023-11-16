@@ -110,3 +110,27 @@ Comenzó a compartir su trayectoria profesional previa a la enseñanza y desde e
  La parte en la que Elena más mostró su entusiasmo fue el contacto con los alumnos. Incidió en el vínculo que se crea con los alumnos, somos personas y, aparte de inevitable, es lo más satisfactorio de la profesión. Los alumnos te recordarán más por la parte humana más que los conocimientos que le puedas enseñar. 
 
  Estuvimos todos muy agusto recibiendo información de primera mano. Las preguntas se sucedían de todos los temas, laborales, de relación con los alumnos, en el centro... Se nos pasó en un suspiro. 
+
+ ## :calendar: 14/11/2023 - Sesión 5
+
+Al concluir la clase de hoy, alcanzamos el ecuador del primer cuatrimestre. A pesar de la intensidad, nuestro cuerpo se adapta al ritmo elevado de trabajo y estudio. A medida que nos acercamos al final, las preocupaciones por los exámenes :page_facing_up: comienzan a ocupar nuestras mentes. Aunque reconocemos la importancia del MAES como preparación para nuestro futuro en el aula, tenemos muy arraigado de que al final, la calificación de la asignatura es lo que más importa.
+
+En nuestra generación, la cultura del examen y la aprobación es lo que ha imperado, pero esperamos que con la nueva generación de profesores :smiley: se fomente el uso de metodologías activas en lugar de simplemente volcar información en un papel, la cual a menudo se olvida apenas cruzamos la puerta quince minutos después de terminar. En relación con los exámenes, surge una pregunta sobre si los profesores logran ponerse de acuerdo en la fijación del calendario de exámenes. Como sospechábamos, la respuesta es que cada uno sigue su propio criterio.
+
+Hemos estado focalizados en nosotros, como profesores, ahora vamos a ver desde el punto de vista de los alumnos.
+Se nos presentan las siguientes preguntas: ¿Estás habituad@ a tratar con jóvenes? ¿Familia, voluntariado, deportes, trabajo, clases particulares, asociaciones? ¿En qué tipo de actividades coincides con gente joven? :boy: :girl:
+En mi caso tengo una hija de 13 años, con la que procuro tener el mayor grado de comunicación posible. Pero reconozco que si no fuera por ella, no tendría relación con los adolescentes y me costaría bastante saber lo que les interesa. sus inquietudes y sus preocupaciones.
+
+Tenemos que intentar conocer los problemas :disappointed: a los que se enfrenta la juventud para ser un educador más efectivo al abordar las necesidades individuales y colectivas de tus estudiantes.
+
+Disponemos de unos minutos para pensar cuáles serían los problemas de la juventud, nos salen gran cantidad de aspectos, pero entre todos los compañeros nos han faltado los que quizás sean más importantes y profundos, parece que nos hemos quedado en la superficie basándonos en el estereotipo.
+
+Vemos los siguientes problemas basandos es estudios realizados.
+
+* :pill: Edad medía de inicio en el consumo de **sustancias psicoactivas**. Es alarmante como la media se encuentra entre los 14 y 15,6 años, y con sustancias que, a priori, no se asocian a los jovenes como los hipnosedantes, metanfetaminas o heroína.
+* :female_sign: **Violencia de género**. Aqui estoy preocupado doblemente como futuro profesor y como padre. No puedo llegar a concebir que en una pareja se insulte, se le diga a la otra persona que no vale para nada o tener un control psicológico tan fuerte que haga sentir miedo.
+* :brain: Aumento de problemas de **salud mental**. Nunca hubiera imaginado que casi un 60% diga de haber sufrido algún trastorno y el resto quizás no sepa detectarlo. La salud mental ha sido un tema tabú por el hecho de sentirnos débiles hacia los demás, la escuela o el trabajo. Comentar que se sufren problemas de salud mental es señalarse ante el resto, relegando a la cola de candidatos que aspiran mejores puestos. Por suerte esta tendencia está cambiando gracias al hecho de la concienciación y educación. El estigma de tener problemas de salud mental es menos importante que el hecho de sufrirlo o no volver a padecerlos.
+
+Pasamos a ver opiniones del alumnado de segundo de la ESO. Las hay muy variadas, destaca como los alumnos saben distinguir entre profesores, cuando uno les gusta y cuando no. La habilidad de un docente para impartir una clase y establecer una buena conexión es fundamental para ellos, valoran recibir ayuda cuando la necesitan. No les gustan que les riñan y sean muy estrictos. Demandan un lenguaje más **positivo**. :heavy_plus_sign:
+
+Parece que la profesora del IES Ítaca de pedagogía inclusiva ha logrado establecer una conexión extraordinaria con sus alumnos, aunque en la despedida no sólo estaban sus alumnos de necesidades especiales (menudo abrazo le dan), sino que también se extendió a otros estudiantes :bouquet: y profesores que se sumaron a expresar su aprecio y reconocimiento. Muy emocionante. :cry:
