@@ -134,3 +134,26 @@ Vemos los siguientes problemas basandos es estudios realizados.
 Pasamos a ver opiniones del alumnado de segundo de la ESO. Las hay muy variadas, destaca como los alumnos saben distinguir entre profesores, cuando uno les gusta y cuando no. La habilidad de un docente para impartir una clase y establecer una buena conexión es fundamental para ellos, valoran recibir ayuda cuando la necesitan. No les gustan que les riñan y sean muy estrictos. Demandan un lenguaje más **positivo**. :heavy_plus_sign:
 
 Parece que la profesora del IES Ítaca de pedagogía inclusiva ha logrado establecer una conexión extraordinaria con sus alumnos, aunque en la despedida no sólo estaban sus alumnos de necesidades especiales (menudo abrazo le dan), sino que también se extendió a otros estudiantes :bouquet: y profesores que se sumaron a expresar su aprecio y reconocimiento. Muy emocionante. :cry:
+
+ ## :calendar: 16/11/2023 - Sesión 6
+
+ Asistimos en el salón de actos a una charla de dos profesoras del [IES Antonio Dominguez Ortiz](https://www.iesdominguezortiz.com/), para contarnos su experiencia en este centro de difícil desempeño del distrito sur de Sevilla.
+
+ En este centro, la realidad es dura. El alumnado es ruidoso, sin rutinas y con problemas de alimentación, higuiene y para descansar por las noches. En las familias, la cosa no es fácil: los padres carecen de estudios y muchas madres son analfabetas. Ni las familias ni los alumnos suelen entender la utilidad de estudiar. Para intentar llegar al alumnado y tener una conexión socio afectiva, hay que ser persistente y utilizar el [efecto Pigmalion](https://www.iepp.es/efecto-pigmalion/)
+
+ Una de las profesoras tiene más experiencia y es mentora de su compañera 
+ Es complicado para un profesor novel enfrentarse por primera vez a este tipo de centro y a su alumnado. Dos herramientas que ayudan son la mentoría y la codocencia.
+ 
+ - La **mentoría** es un proceso en el cual un profesor más experimentado (mentor) guía y apoya a un docente menos experimentado (mentorizado). Este proceso busca facilitar el desarrollo profesional y personal del mentorizado, ayudándolo a adaptarse al entorno educativo, mejorar sus habilidades pedagógicas, y enfrentar los desafíos inherentes a la enseñanza. En este caso, que nos encontramos en un centro de difícil desempeño es especialmente importante.
+ - La **codocencia** es la confluencia de dos docentes en una misma aula y sesión para desarrollar unos objetivos comunes. Esta codocencia implica, además de la actuación conjunta en el aula, una planificación y una evaluación colaborativas.
+
+   Con respecto a la mentoría, la profesora mentora ayuda a la mentorizada es muchos aspectos como:
+   * Gestión del estres. El profesor tiene que estar al 100% en el aula.
+   * Guia de rutinas. Es importante mantener las rutinas en clase para intentar conseguir atención y evitar distracciones.
+   * Pautas de gestión en el aula. Para evitar conflictos.
+   * Guión de observación. Revisión de las clases ir mejorando.
+
+El nivel de atención requerido en este centro en particular es enorme, exigiendo una gran fortaleza psicológica frente a un alumnado que presenta comportamientos violentos y profiere insultos. ¿Vale la pena? Para algunos, sí. La satisfacción de poder brindar ayuda a algún alumno es enriquecedor. A pesar de las dificultades, la posibilidad de impactar positivamente en la vida de los estudiantes hace que consideren que el esfuerzo vale la pena.
+     
+Hay diversas asociaciones que colaboran con estos centros para proporcionar materiales y recursos. Aunque el ratio profesor/alumno es considerablemente bajo en estas instituciones, parece que se están tomando medidas desde la administración para intentar paliar el problema social y educativo. No obstante, persiste la sensación de que los docentes se encuentran en la primera línea, prácticamente solos, y claramente el problema socioeducativo trasciende las fronteras del centro.
+
