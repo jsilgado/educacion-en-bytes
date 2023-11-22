@@ -135,7 +135,7 @@ Pasamos a ver opiniones del alumnado de segundo de la ESO. Las hay muy variadas,
 
 Parece que la profesora del IES Ítaca de pedagogía inclusiva ha logrado establecer una conexión extraordinaria con sus alumnos, aunque en la despedida no sólo estaban sus alumnos de necesidades especiales (menudo abrazo le dan), sino que también se extendió a otros estudiantes :bouquet: y profesores que se sumaron a expresar su aprecio y reconocimiento. Muy emocionante. :cry:
 
- ## :calendar: 16/11/2023 - Sesión 6
+ ## :calendar: 16/11/2023 - Charla experiencia IES Dominguez Ortiz
 
  Asistimos en el salón de actos a una charla de dos profesoras del [IES Antonio Dominguez Ortiz](https://www.iesdominguezortiz.com/), para contarnos su experiencia en este centro de difícil desempeño del distrito sur de Sevilla.
 
@@ -157,3 +157,18 @@ El nivel de atención requerido en este centro en particular es enorme, exigiend
      
 Hay diversas asociaciones que colaboran con estos centros para proporcionar materiales y recursos. Aunque el ratio profesor/alumno es considerablemente bajo en estas instituciones, parece que se están tomando medidas desde la administración para intentar paliar el problema social y educativo. No obstante, persiste la sensación de que los docentes se encuentran en la primera línea, prácticamente solos, y claramente el problema socioeducativo trasciende las fronteras del centro.
 
+
+ ## :calendar: 21/11/2023 - Sesión 6
+
+ El tema de la sesión de hoy es el sistema educativo. Mi experiencia académica no es precisamente moderna, cursé la EGB y también completé el Bachillerato junto con el COU, sin llegar a experimentar la transición a la ESO. Lo poco que sé del sistema educativo actual es por mis hijas y en especial por la mayor que se encuentra en 2º de la ESO y por las noticias que a veces leo en periódicos, solo todo las malas. La sensación popular es el cambio normativo en el sistema educativo según se produce la alternancia en el Gobierno :classical_building:.
+
+ La escuela ha evolucionado mucho desde mi época, las nuevas tecnologías, la pedagogía, la sociedad, la política o el mercado laboral, van moldeando las asignaturas, temarios, o formas de aprendizaje en el aula, pero la esencia de compartir y transmitir el conocimiento continua.
+
+ Las numerosas leyes de educación que ha habido durante estos años no han permitido la estabilidad del sistema educativo, ocasinando dificultades al profesorado, alumnos y padres. La ley de educación tiene que evolucionar para ir adaptándose a su época actual pero no debe ser un tema de conflicto indeológico donde se derogan a aprueba temas cruciales dependiendo del gobierno de turno. Los aspectos clave de confrontación con respecto a la ley de educación son:
+ * :church: Asignatura de religión: su obligatoriedad en un estado laico y su ponderación efectiva o no para el curriculum academico.
+ * :moneybag: Colegios concertados: son entidades con financiación pública que suelen relizar una selección de alumnos para su ingreso. Tiene un fuerte ideario o enfoque esfecifico, sobre todo a la religión.
+ * :two_men_holding_hands: <-> :two_women_holding_hands: Segregación curricular: separar a los estudiantes en diferentes programas basados en características específicas, como su rendimiento académico, habilidades, intereses, género, raza...
+ * :mortar_board: Cultura del esfuerzo: se alienta a los estudiantes a asumir la responsabilidad de su propio aprendizaje para lograr el éxito.
+ 
+ He leido el texto: [Dos profes en un bar](https://eldiariodelaeducacion.com/2023/10/23/dos-profes-en-un-bar/) Me identifico con la cuestión de la vocación en la enseñanza. A diferencia de aquellos que sienten una llamada interna hacia la docencia, yo no tengo esa vocación, aunque las lecciones de vida que aprendí durante mi etapa académica y las experiencias posteriores han sido fundamentales para mi inclinación actual para la docencia. Comparto de que la enseñanza es un aprendizaje continuo. Coincido en que nuestras experiencias vitales y las interacciones con estudiantes con diferentes diversidades, otros profesores y las situaciones cotidianas son cruciales para nuestro desarrollo como docentes.
+ 
