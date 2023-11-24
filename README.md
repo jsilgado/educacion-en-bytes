@@ -135,7 +135,7 @@ Pasamos a ver opiniones del alumnado de segundo de la ESO. Las hay muy variadas,
 
 Parece que la profesora del IES Ítaca de pedagogía inclusiva ha logrado establecer una conexión extraordinaria con sus alumnos, aunque en la despedida no sólo estaban sus alumnos de necesidades especiales (menudo abrazo le dan), sino que también se extendió a otros estudiantes :bouquet: y profesores que se sumaron a expresar su aprecio y reconocimiento. Muy emocionante. :cry:
 
- ## :calendar: 16/11/2023 - Charla experiencia IES Dominguez Ortiz
+ ## :calendar: 16/11/2023 - Sesión 6 - Charla experiencia IES Dominguez Ortiz
 
  Asistimos en el salón de actos a una charla de dos profesoras del [IES Antonio Dominguez Ortiz](https://www.iesdominguezortiz.com/), para contarnos su experiencia en este centro de difícil desempeño del distrito sur de Sevilla.
 
@@ -158,7 +158,7 @@ El nivel de atención requerido en este centro en particular es enorme, exigiend
 Hay diversas asociaciones que colaboran con estos centros para proporcionar materiales y recursos. Aunque el ratio profesor/alumno es considerablemente bajo en estas instituciones, parece que se están tomando medidas desde la administración para intentar paliar el problema social y educativo. No obstante, persiste la sensación de que los docentes se encuentran en la primera línea, prácticamente solos, y claramente el problema socioeducativo trasciende las fronteras del centro.
 
 
- ## :calendar: 21/11/2023 - Sesión 6
+ ## :calendar: 21/11/2023 - Sesión 7
 
  El tema de la sesión de hoy es el sistema educativo. Mi experiencia académica no es precisamente moderna, cursé la EGB y también completé el Bachillerato junto con el COU, sin llegar a experimentar la transición a la ESO. Lo poco que sé del sistema educativo actual es por mis hijas y en especial por la mayor que se encuentra en 2º de la ESO y por las noticias que a veces leo en periódicos, solo todo las malas. La sensación popular es el cambio normativo en el sistema educativo según se produce la alternancia en el Gobierno :classical_building:.
 
@@ -171,4 +171,20 @@ Hay diversas asociaciones que colaboran con estos centros para proporcionar mate
  * :mortar_board: Cultura del esfuerzo: se alienta a los estudiantes a asumir la responsabilidad de su propio aprendizaje para lograr el éxito.
  
  He leido el texto: [Dos profes en un bar](https://eldiariodelaeducacion.com/2023/10/23/dos-profes-en-un-bar/) Me identifico con la cuestión de la vocación en la enseñanza. A diferencia de aquellos que sienten una llamada interna hacia la docencia, yo no tengo esa vocación, aunque las lecciones de vida que aprendí durante mi etapa académica y las experiencias posteriores han sido fundamentales para mi inclinación actual para la docencia. Comparto de que la enseñanza es un aprendizaje continuo. Coincido en que nuestras experiencias vitales y las interacciones con estudiantes con diferentes diversidades, otros profesores y las situaciones cotidianas son cruciales para nuestro desarrollo como docentes.
- 
+
+
+ ## :calendar: 23/11/2023 - Sesión 8
+¿La educación es igual en distintos lugares y épocas? ¿Que hay en común? Existen diferencias en los sistemas educativos de distintos lugares del mundo :earth_africa:. Cada sociedad tiene sus propias tradiciones, valores y formas de vida, lo que se refleja en la forma en que se estructura y se lleva a cabo la educación. Además, las condiciones económicas :moneybag: y la disponibilidad de recursos también influyen en la calidad y el alcance de la educación. En cuanto a la época ha evolucionado bastante, antiguamente incluso, la eduación estaba limitada a ciertas élites.  Las mejoras en pedagogía y los avances tecnológicos :computer: han impactado la forma en que se enseña y se aprende. Aún queda mucho por avanzar en el tema de igualdad entre los distintos centros educativos, pero existe el riesgo que esa brecha se agrande por la capacidad de cada centro de invertir en innovación y tecnología.
+Hay ciertos aspectos que son universales en la educación, como el objetivo de transmitir y compartir conocimientos, desarrollar habilidades y fomentar el pensamiento crítico.
+
+Existen varias posibilidades de dar clases fuera del sistema educativo tradicional como:
+* :hospital: Hospitales.
+* :house: Visita domicilarias.
+* :circus_tent: Circo.
+* :earth_africa: Colegios españoles en el extranjero.
+* :two: Escuelas de segunda oportunidad.
+  No me había planteado estas posibilidades. Eiempre me había imaginado en una clase estándar con alumnos estándar, ciertamente es una experiencia distinta y enriquecedora, a la par que difícil... da que pensar.
+
+Hacemos el ejercicio de pensar cuales serían las funciones del profesorado para luego comparar con las que se disponen el artículo 91 de lo LOMLOE. Hay algunas que la clase no las ha tenido en cuenta pero la mayoría si la teniamos en mente, parece que poco a poco nos vamos quedando con todos los conceptos. 
+
+Debatimos sobre el bajo seguimiento que se hace sobre las tareas del profesorado, lo que implica que se relaje el cumplimiento de todas las tareas que son fundamentables, como la antención al desarrollo, la orientanción, la mejora en la evaluación en los métodos de enseñanza. No obstante quizás un sobre-control puede limitar la autonomía de los docentes, obligando a realizar "estipulado" por la ley sin tener en cuenta el contexto particular de sus alumnos.
