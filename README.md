@@ -159,7 +159,7 @@ Hay diversas asociaciones que colaboran con estos centros para proporcionar mate
 
 
  ## :calendar: 21/11/2023 - Sesión 7
-
+ 
  El tema de la sesión de hoy es el sistema educativo. Mi experiencia académica no es precisamente moderna, cursé la EGB y también completé el Bachillerato junto con el COU, sin llegar a experimentar la transición a la ESO. Lo poco que sé del sistema educativo actual es por mis hijas y en especial por la mayor que se encuentra en 2º de la ESO y por las noticias que a veces leo en periódicos, solo todo las malas. La sensación popular es el cambio normativo en el sistema educativo según se produce la alternancia en el Gobierno :classical_building:.
 
  La escuela ha evolucionado mucho desde mi época, las nuevas tecnologías, la pedagogía, la sociedad, la política o el mercado laboral, van moldeando las asignaturas, temarios, o formas de aprendizaje en el aula, pero la esencia de compartir y transmitir el conocimiento continua.
@@ -174,6 +174,7 @@ Hay diversas asociaciones que colaboran con estos centros para proporcionar mate
 
 
  ## :calendar: 23/11/2023 - Sesión 8
+ 
 ¿La educación es igual en distintos lugares y épocas? ¿Que hay en común? Existen diferencias en los sistemas educativos de distintos lugares del mundo :earth_africa:. Cada sociedad tiene sus propias tradiciones, valores y formas de vida, lo que se refleja en la forma en que se estructura y se lleva a cabo la educación. Además, las condiciones económicas :moneybag: y la disponibilidad de recursos también influyen en la calidad y el alcance de la educación. En cuanto a la época ha evolucionado bastante, antiguamente incluso, la eduación estaba limitada a ciertas élites.  Las mejoras en pedagogía y los avances tecnológicos :computer: han impactado la forma en que se enseña y se aprende. Aún queda mucho por avanzar en el tema de igualdad entre los distintos centros educativos, pero existe el riesgo que esa brecha se agrande por la capacidad de cada centro de invertir en innovación y tecnología.
 Hay ciertos aspectos que son universales en la educación, como el objetivo de transmitir y compartir conocimientos, desarrollar habilidades y fomentar el pensamiento crítico.
 
@@ -188,3 +189,32 @@ Existen varias posibilidades de dar clases fuera del sistema educativo tradicion
 Hacemos el ejercicio de pensar cuales serían las funciones del profesorado para luego comparar con las que se disponen el artículo 91 de lo LOMLOE. Hay algunas que la clase no las ha tenido en cuenta pero la mayoría si la teniamos en mente, parece que poco a poco nos vamos quedando con todos los conceptos. 
 
 Debatimos sobre el bajo seguimiento que se hace sobre las tareas del profesorado, lo que implica que se relaje el cumplimiento de todas las tareas que son fundamentables, como la antención al desarrollo, la orientanción, la mejora en la evaluación en los métodos de enseñanza. No obstante quizás un sobre-control puede limitar la autonomía de los docentes, obligando a realizar "estipulado" por la ley sin tener en cuenta el contexto particular de sus alumnos.
+
+## :calendar: 28/11/2023 - Sesión 9
+
+Los diarios de la sesión 7 han sido menos extensos de lo habitual, en esa sesión, Soledad, no pudo hablar como siempre y la clase estuvo más enfocada en el powerpoint. Ante un cambio de rutina los alumnos pueden sentirse desorientados o perdidos en la forma de llevar el trabajo diario. Esto puede provocar que se distraigan más fácilmente y que no dediquen el tiempo suficiente a los trabajos. También este cambio puede provocar puede disminuir la motivación y el interés :frowning:. En este caso estábamos acostumbrados a reflexionar en el diario sobre temas que se van presentando en el debate en clase. Del mismo modo el contenido de ese diario pudo ser menor debido al las menores ideas previas que teníamos sobre la legislación y el menor interés que este tema provoca con respecto a otros.
+
+También ha sido manifiesto el poco "éxito" del ejercicio que se realizó al final de la clase con las tarjetas de conceptos sobre los terminos de la ley educativa :scroll:. Esto puede ser que all final de la clase los alumnos suelen estar cansados o desmotivados y con prisa por terminar la clase y marcharse a casa :house:. Esto puede provocar que realicen la tarea de forma superficial o que no la terminen en su totalidad.
+
+### Hablemos del mobiliario y el espacio :school:. 
+
+En las aulas son elementos fundamentales para el aprendizaje. Un mobiliario adecuado y un espacio bien organizado pueden contribuir a crear un entorno de aprendizaje más cómodo, seguro y estimulante. Éstos deberían adaptarse en función del enfoque didactivo. 
+En la configuración convencional del aula, se sigue el modelo de asignar un pupitre :chair: por estudiante, en aulas pequeñas y normalmente con hacinamiento de los alumnos, promoviendo la individualidad en detrimento de metodologías cooperativas. Además, la disposición de estos pupitres suele orientarse hacia el profesor :man_teacher:, reflejando una inclinación hacia una autoridad legítima, coercitiva e inductiva en lugar de fomentar la autoridad personal, que se ha demostrado más propicia para mejorar el rendimiento escolar.
+Los espacios en el aula son muy impersonales, el mobilirario suele ser fijo y no está adaptado para la edad y altura de los alumnos. El mobiliario debe ser cómodo y permitir a los alumnos adoptar diferentes posturas, moverse y trabajar comodamente, teniendo a su alcance los materiales y recursos que necesitan.
+La evolución en el diseño del aula del futuro implica la incorporación de sillas con ruedas para favorecer la movilidad y la creación de aulas más amplias que permitan la diferenciación de espacios destinados a diversas actividades. Se busca superar la tradición de pupitres individuales orientados hacia el profesor, reconociendo la importancia de romper con la rutina de sentarse siempre en el mismo lugar. 
+
+Recuerdo cursos enteros y eternos en bachillerato en sillas con tabla, en las que solo cabía un folio y un bolígrafo, aulas de hormigón y profesor en la pizarra. Por lo visto en el instituto de mi hija no ha mejorado mucho la situación, incluso las aulas son más pequeñas y oscuras. Al final para obtener un buen mobiliario y espacio se necesitan concienciación por parte de los profesores y equipos directivos y buenos presupuestos :moneybag: para llevarlo a cabo. 
+
+Un concepto importante traido a colación en clase ha sido el "currículum oculto". Se refiere a los valores, actitudes y habilidades que los estudiantes adquieren de manera indirecta a través de la cultura y el entorno de la escuela, pero que no están explícitamente incluidos en el plan de estudios formal. Muchos factores referentes al mobilirario, como un aula mal diseñada, la distribución los alumnos en el aula, el hacimiento... pueden ser absorbidos por los alumnos, siendo algunos de ellos negativos, como el significado de sentarse siempre atrás en el aula, el poco espacio para trabajar o la poca calidez del aula.
+
+### Libros de texto :books:.
+
+Los libros de texto pueden presentar varias limitaciones:
+* Suelen estar diseñados para un público general, por lo que pueden no adaptarse a las necesidades y características individuales de los alumnos.
+* Están sesgados, reflejando los valores y perspectivas de las editoriales, que pueden estar en contra de lo que nosotros mismos como docentes pensemos.
+* Son muy costosos y presentan cada vez es más ilustraciones sin un contenido didáctivo claro.
+
+Seguir un libro de texto descualifica al profesor, no sería necesario conocer muy bien la materia a impartir o poseer herramientas metodológicas que conlleven un aprendizaje significativo de los alumnos. Bastaría con recitar el libro de texto, ejercicios y pasar al siguiente tema. La calidad de la enseñanza disminuye sobremanera ya que los libros de texto no reflejan el contexto del aula, no se realiza una actitud crítica sobre los contenidos (dotándolos como verdades absolutas), ni se detectan sesgos. 
+
+Para los inicios de la carrera docente, un libro de texto puede ser de ayuda como guión, de los temas a enseñar durante el curso u obtener ideas de actividades, usarlos más allá resultaría contraproducente a la clase de profesores que nos queremos convertir.
+
