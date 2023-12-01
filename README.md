@@ -218,3 +218,16 @@ Seguir un libro de texto descualifica al profesor, no sería necesario conocer m
 
 Para los inicios de la carrera docente, un libro de texto puede ser de ayuda como guión, de los temas a enseñar durante el curso u obtener ideas de actividades, usarlos más allá resultaría contraproducente a la clase de profesores que nos queremos convertir.
 
+
+## :calendar: 30/11/2023 - Sesión 10
+
+Llegamos al último día de clases con emociones encontradas :wave:. Por un lado, me siento aliviado de dejar atrás un mes complicado entre el trabajo :man_office_worker:, mis hijas :family_man_woman_girl_girl: y las clases :man_teacher:. Por otro lado, hay cierta tristeza al despedirme de buenas personas que he conocido en clase y que espero mantener el contacto :heart_eyes:. También valoro lo mucho que he aprendido, tanto para mi futuro como docente como para mi vida personal con mis hijas.
+
+En esta última clase hemos visto las objetivos de las etapas de Educación Secundaria Obligatoria y de Bachillerato que indica el Decreto 102/2023. Llama la atención la cantidad de objetivos que son transversales a todas las materias, teniendo que desarrollar nuestra labor didáctica en base a estos objetivos junto con la materia específica de cada asignatura. También me ha sorprendido, para bien, que esté en un decreto educativo temas tan importantes para la sociedad como la igualdad, la tolerancia, el cambio climático y la identidad y cultura andaluza.
+
+Continuamos con algo de teoría sobre la evaluación y la técnica para evaluar que sería el método para obtener la información y el instrumento que sería el recurso concreto que se emplea para obtener la información. La nueva ley indica que no se puede basar toda la técnica de evaluación en un solo examen sino que hay que ampliar el abanico de métodos para obtener la información de lo aprendido por nuestros alumnos. No se puede evaluar el hacer, saber hacer y ser en el mismo examen, son aprendizajes diferentes y se tienen que evaluar de forma diferente. 
+
+Termimamos la clase como empezamos este curso en Procesos y Contextos Educativos, esta vez las imágenes :framed_picture: no la elegimos los alumnos, sino nuestra profesora. Nos colocamos en un semicirculo grande y uno a uno tenemos que expresar :left_speech_bubble: lo que se nos evoca esa imagen en nuestra experiencia en las clase en este último mes. 
+
+Quizás no llegué al MAES con una gran vocación para la docencia, pero me siento más convencido de todo lo que un profesor puede influir en sus alumnos, confio en mi capacidad para transmitir esos valores, ayudar a los alumnos en todo lo posible y compartir conocimientos. Estoy emocionado por el primer día de prácticas y la oportunidad de estar en un aula. :smiley:
+
